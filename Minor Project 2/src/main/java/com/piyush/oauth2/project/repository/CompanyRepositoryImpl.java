@@ -1,11 +1,6 @@
 package com.piyush.oauth2.project.repository;
 
-import com.piyush.oauth2.project.model.Company;
-import com.piyush.oauth2.project.model.Company_;
-import com.piyush.oauth2.project.model.Department;
-import com.piyush.oauth2.project.model.Department_;
-import com.piyush.oauth2.project.model.Employee;
-import com.piyush.oauth2.project.model.Employee_;
+import com.piyush.oauth2.project.model.*;
 
 import org.springframework.dao.support.DataAccessUtils;
 import org.springframework.stereotype.Repository;
